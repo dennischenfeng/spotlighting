@@ -1,0 +1,32 @@
+Subject: Q3 Field Ops Update — Supply Constraints & Mitigation Plan
+From: Alex Romero, Ops Program Manager
+Date: Tue, 16 Jul 2050 09:42:13 -0700
+
+Team,
+
+Following up on yesterday’s steering review, here’s the consolidated update for Q3. Please share with your leads and add clarifications inline where noted.
+
+1. Context
+   We’re seeing sustained backlog in the Mountain and Southwest regions due to carrier shortfalls (avg. 2.4 days behind SLA). The biggest driver is the Phoenix cross-dock throughput (temporary staff turnover + two conveyors down). Denver and SLC are stable but running at low buffer.
+
+2. Forecast & Risk
+   • Units forecast: 412k (+6.1% vs Q2)
+   • Fill rate risk: 2.7–3.3% if supplier B can’t restore aluminum extrusions by W31
+   • Top blocker: Truckload capacity out of Nogales; spot market rates up ~18% since June
+
+3. Mitigations (owner → due)
+   • Vendor B recovery plan — materials ETA W30; alt. profile acceptable for SKUs X12/X14 (Priya → W29)
+   • Phoenix temp staffing — convert 12 FTEs; weekend overtime cap +10% (Marco → rolling)
+   • Expedite lanes — authorize 4 weekly TLs PHX→ABQ, ABQ→DEN (Nate → W28)
+   • Safety stock — raise to 2.2 wks for X-series; revisit by W32 (Lana → W31)
+
+4. Customer Impact & Comms
+   CSAT dipped to 4.31 (−0.08). Comms plan: proactive delay notices for orders >48h past promised-ship; target 24h resolution on re-routes. No changes to warranty policy.
+
+5. Financials
+   Freight variance: +$218k MTD vs plan (expedites + spot). Expect ~+$600–$720k for the quarter if constraints persist through W33.
+
+6. Notes for next review
+   Please append any site-level anomalies (one-liners) before Thursday 3pm PT so we can lock the exec deck.
+
+— Alex
